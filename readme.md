@@ -6,7 +6,7 @@ This project is a command-line interface (CLI) application for see cryptocoins p
 
 To install the CLI, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/crypto-cli.git`
+1. Clone the repository: `git clone https://github.com/igg7x/Crypto-CLI.git
 2. Navigate to the project directory: `cd crypto-cli`
 3. Install dependencies: `npm install`
 
