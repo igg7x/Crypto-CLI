@@ -1,0 +1,21 @@
+{
+  "name": "crypto-cli",
+  "version": "1.0.0",
+  "description": "Crypto command line app",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./bin/coindex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ignacio Gonzalz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "colors": "^1.4.0",
+    "commander": "^11.1.0",
+    "configstore": "^6.0.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.12"
+  }
+}
